@@ -4,7 +4,7 @@ This is a homework for functional programming course.
 
 License: LGPL for implementation code + WTFPL for test examles in miniLanguage
 
-Author: Andrew Oleynikob, a.oleyn1kov@outlook.com
+Author: Andrew Oleynikov, a.oleyn1kov@outlook.com
 
 Features done (append only):
 
